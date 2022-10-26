@@ -1,0 +1,26 @@
+[
+    {
+       "id": 1,
+       "Nombre": "Xbox",
+       "Costo": 14000,
+       "Ubicacion": "Mexico"
+    },
+    {
+        "id": 2,
+        "Nombre": "Play Station",
+        "Costo": 17000,
+        "Ubicacion": "Japon"
+     },
+     {
+        "id": 3,
+        "Nombre": "Nintendo Switch",
+        "Costo": 6500,
+        "Ubicacion": "Japon"
+     },
+     {
+        "id": 4,
+        "Nombre": "Steam Deck",
+        "Costo": 8756,
+        "Ubicacion": "Estados Unidos"
+     }
+ ]
